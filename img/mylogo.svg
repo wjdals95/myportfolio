@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 600" style="enable-background:new 0 0 800 600;" xml:space="preserve">
+<style type="text/css">
+	.st0{stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'BookmanOldStyle';}
+	.st3{font-size:74px;}
+</style>
+<g>
+	<rect x="31.3" y="142.29" class="st0" width="315.43" height="315.43"/>
+	<rect x="53.52" y="164.5" class="st1" width="271" height="271"/>
+	<g>
+		<polygon points="229.8,182.11 97.87,322.33 97.87,182.11 71.13,182.11 71.13,393.18 269.72,182.11 		"/>
+	</g>
+	<g>
+		<polygon points="148.24,417.89 280.17,277.67 280.17,417.89 306.91,417.89 306.91,206.82 108.32,417.89 		"/>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 356.3677 274.9373)"><tspan x="0" y="0" class="st2 st3">JEONG MIN</tspan><tspan x="0" y="88.8" class="st2 st3">FRONTEND</tspan></text>
+<rect y="42.85" width="800" height="8.31"/>
+<rect y="59.46" width="800" height="8.31"/>
+<rect y="532.23" width="800" height="8.31"/>
+<rect y="548.85" width="800" height="8.31"/>
+</svg>
